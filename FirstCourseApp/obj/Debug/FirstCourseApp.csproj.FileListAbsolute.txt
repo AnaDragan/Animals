@@ -1,0 +1,7 @@
+C:\Users\Ana\Source\Repos\Animals\FirstCourseApp\bin\Debug\FirstCourseApp.exe.config
+C:\Users\Ana\Source\Repos\Animals\FirstCourseApp\bin\Debug\FirstCourseApp.exe
+C:\Users\Ana\Source\Repos\Animals\FirstCourseApp\bin\Debug\FirstCourseApp.pdb
+C:\Users\Ana\Source\Repos\Animals\FirstCourseApp\obj\Debug\FirstCourseApp.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Source\Repos\Animals\FirstCourseApp\obj\Debug\FirstCourseApp.exe
+C:\Users\Ana\Source\Repos\Animals\FirstCourseApp\obj\Debug\FirstCourseApp.pdb
+C:\Users\Ana\Source\Repos\Animals\FirstCourseApp\obj\Debug\FirstCourseApp.csprojResolveAssemblyReference.cache

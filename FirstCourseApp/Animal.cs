@@ -8,7 +8,24 @@ namespace FirstCourseApp
 {
     class Animal
     {
-        public string name = "";
-        public string sound = "";
+        string name = "";
+        string sound = "";
+
+        public Animal(string newName, string newSound)
+        {
+            name = newName;
+            sound = newSound;
+        }
+
+        public string Name
+        {
+            get => name;
+            set => name = value;
+        }
+        public string Sound
+        {
+            get => sound;
+            set => sound = value;
+        }
     }
 }

@@ -13,16 +13,16 @@ namespace FirstCourseApp
         {
             Animal[] animalList = new Animal[]
             {
-                new Animal{name = "pisica", sound = "miau"},
-                new Animal{name = "caine", sound = "ham"},
-                new Animal{name = "urs", sound = "moor"},
-                new Animal{name = "dragon", sound = "wooooo"},
-                new Animal{name = "sarpe", sound = "ssss"}
+                new Animal("pisica", "miau"),
+                new Animal("caine", "ham"),
+                new Animal("urs", "moor"),
+                new Animal("dragon", "wooooo"),
+                new Animal("sarpe", "ssss")
             };
 
             foreach(Animal element in animalList)
             {
-                Console.WriteLine(element.name + " makes " + element.sound);
+                Console.WriteLine(element.Name + " makes " + element.Sound);
             }
             Console.ReadKey();
         }
